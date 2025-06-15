@@ -33,7 +33,7 @@ I am progressing step by step with clean and simple projects.
 
 ---
 
-## 📌 My 2025 Goals
+## 📌 My 2026 Goals
 - [ ] Build more than 10 mini frontend projects  
 - [ ] Keep my GitHub profile active with quality content  
 - [ ] Publish my personal portfolio website  
@@ -50,10 +50,3 @@ I am progressing step by step with clean and simple projects.
 ---
 
 > 💡 I am actively learning. I will keep updating this profile as I progress!
-
-
-
-<!---
-BerkeEgin1/BerkeEgin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
