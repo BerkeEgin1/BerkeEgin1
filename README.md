@@ -33,7 +33,7 @@ I am progressing step by step with clean and simple projects.
 
 ---
 
-## 📌 My 2026 Goals
+## 📌 My 2025 Goals
 - [ ] Build more than 10 mini frontend projects  
 - [ ] Keep my GitHub profile active with quality content  
 - [ ] Publish my personal portfolio website  
@@ -43,10 +43,11 @@ I am progressing step by step with clean and simple projects.
 ---
 
 ## 📫 How to Reach Me
-- GitHub: [BerkeEgin1](https://github.com/BerkeEgin1)  
+- GitHub: [DevBerkeEgin](https://github.com/DevBerkeEgin)  
 - LinkedIn: [dev-berke-egin](http://www.linkedin.com/in/dev-berke-egin)  
 - Email: berke.egin.34@hotmail.com
 
 ---
 
-> 💡 I am actively learning. I will keep updating this profile as I progress!
+> 💡 I am actively learning. I will keep updating this profile as I progress!  
+
